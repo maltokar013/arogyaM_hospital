@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "735641809933",
+    "firebase_url": "https://arogyam-2e324-default-rtdb.firebaseio.com",
+    "project_id": "arogyam-2e324",
+    "storage_bucket": "arogyam-2e324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735641809933:android:06223c162927892ad25144",
+        "android_client_info": {
+          "package_name": "com.example.arogyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735641809933-j0huv8n86ht17b243hop6u53ilv1itci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqkpyxdUnHRlznmLOz5BbD7Tw5Z2WapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735641809933-j0huv8n86ht17b243hop6u53ilv1itci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735641809933:android:0be8692c9b0d40ead25144",
+        "android_client_info": {
+          "package_name": "com.example.arogyam_hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735641809933-j0huv8n86ht17b243hop6u53ilv1itci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqkpyxdUnHRlznmLOz5BbD7Tw5Z2WapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735641809933-j0huv8n86ht17b243hop6u53ilv1itci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
